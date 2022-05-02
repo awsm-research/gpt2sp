@@ -1,0 +1,41 @@
+train_file,test_file,mae,approach,group
+mesos,usergrid,1.19,ABE0+Hyperopt,Within Repository
+usergrid,mesos,1.57,ABE0+Hyperopt,Within Repository
+appceleratorstudio,aptanastudio,4.22,ABE0+Hyperopt,Within Repository
+appceleratorstudio,titanium,3.45,ABE0+Hyperopt,Within Repository
+titanium,appceleratorstudio,2.45,ABE0+Hyperopt,Within Repository
+aptanastudio,titanium,4.16,ABE0+Hyperopt,Within Repository
+mule,mulestudio,3.45,ABE0+Hyperopt,Within Repository
+mulestudio,mule,2.93,ABE0+Hyperopt,Within Repository
+mesos,usergrid,1.24,ABE0,Within Repository
+usergrid,mesos,1.63,ABE0,Within Repository
+appceleratorstudio,aptanastudio,4.27,ABE0,Within Repository
+appceleratorstudio,titanium,3.61,ABE0,Within Repository
+titanium,appceleratorstudio,2.62,ABE0,Within Repository
+aptanastudio,titanium,3.6,ABE0,Within Repository
+mule,mulestudio,3.82,ABE0,Within Repository
+mulestudio,mule,3.04,ABE0,Within Repository
+mesos,usergrid,1.23,ABE0 by Choetkiertikul et al.,Within Repository
+usergrid,mesos,1.22,ABE0 by Choetkiertikul et al.,Within Repository
+appceleratorstudio,aptanastudio,3.08,ABE0 by Choetkiertikul et al.,Within Repository
+appceleratorstudio,titanium,2.56,ABE0 by Choetkiertikul et al.,Within Repository
+titanium,appceleratorstudio,3.0,ABE0 by Choetkiertikul et al.,Within Repository
+aptanastudio,titanium,3.53,ABE0 by Choetkiertikul et al.,Within Repository
+mule,mulestudio,3.55,ABE0 by Choetkiertikul et al.,Within Repository
+mulestudio,mule,2.64,ABE0 by Choetkiertikul et al.,Within Repository
+mesos,usergrid,0.58,GPT2SP,Within Repository
+usergrid,mesos,1.46,GPT2SP,Within Repository
+appceleratorstudio,aptanastudio,2.63,GPT2SP,Within Repository
+appceleratorstudio,titanium,2.58,GPT2SP,Within Repository
+titanium,appceleratorstudio,2.07,GPT2SP,Within Repository
+aptanastudio,titanium,3.52,GPT2SP,Within Repository
+mule,mulestudio,2.89,GPT2SP,Within Repository
+mulestudio,mule,2.25,GPT2SP,Within Repository
+mesos,usergrid,1.07,Deep-SE,Within Repository
+usergrid,mesos,1.14,Deep-SE,Within Repository
+appceleratorstudio,aptanastudio,2.75,Deep-SE,Within Repository
+appceleratorstudio,titanium,1.99,Deep-SE,Within Repository
+titanium,appceleratorstudio,2.85,Deep-SE,Within Repository
+aptanastudio,titanium,3.41,Deep-SE,Within Repository
+mule,mulestudio,3.14,Deep-SE,Within Repository
+mulestudio,mule,2.31,Deep-SE,Within Repository

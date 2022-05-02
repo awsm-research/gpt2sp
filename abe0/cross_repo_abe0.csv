@@ -1,0 +1,41 @@
+train_file,test_file,mae,approach,group
+clover,usergrid,1.51,ABE0+Hyperopt,Cross Repository
+talendesb,mesos,1.57,ABE0+Hyperopt,Cross Repository
+talenddataquality,aptanastudio,4.2,ABE0+Hyperopt,Cross Repository
+mule,titanium,3.32,ABE0+Hyperopt,Cross Repository
+talenddataquality,appceleratorstudio,2.7,ABE0+Hyperopt,Cross Repository
+mulestudio,titanium,4.73,ABE0+Hyperopt,Cross Repository
+appceleratorstudio,mulestudio,3.51,ABE0+Hyperopt,Cross Repository
+appceleratorstudio,mule,2.71,ABE0+Hyperopt,Cross Repository
+clover,usergrid,1.02,ABE0,Cross Repository
+talendesb,mesos,1.56,ABE0,Cross Repository
+talenddataquality,aptanastudio,4.05,ABE0,Cross Repository
+mule,titanium,3.62,ABE0,Cross Repository
+talenddataquality,appceleratorstudio,3.18,ABE0,Cross Repository
+mulestudio,titanium,8.13,ABE0,Cross Repository
+appceleratorstudio,mulestudio,3.58,ABE0,Cross Repository
+appceleratorstudio,mule,3.27,ABE0,Cross Repository
+clover,usergrid,2.04,ABE0 by Choetkiertikul et al.,Cross Repository
+talendesb,mesos,2.14,ABE0 by Choetkiertikul et al.,Cross Repository
+talenddataquality,aptanastudio,6.95,ABE0 by Choetkiertikul et al.,Cross Repository
+mule,titanium,7.1,ABE0 by Choetkiertikul et al.,Cross Repository
+talenddataquality,appceleratorstudio,6.77,ABE0 by Choetkiertikul et al.,Cross Repository
+mulestudio,titanium,3.94,ABE0 by Choetkiertikul et al.,Cross Repository
+appceleratorstudio,mulestudio,4.45,ABE0 by Choetkiertikul et al.,Cross Repository
+appceleratorstudio,mule,2.97,ABE0 by Choetkiertikul et al.,Cross Repository
+clover,usergrid,0.92,GPT2SP,Cross Repository
+talendesb,mesos,1.54,GPT2SP,Cross Repository
+talenddataquality,aptanastudio,4.14,GPT2SP,Cross Repository
+mule,titanium,3.14,GPT2SP,Cross Repository
+talenddataquality,appceleratorstudio,2.54,GPT2SP,Cross Repository
+mulestudio,titanium,3.21,GPT2SP,Cross Repository
+appceleratorstudio,mulestudio,1.74,GPT2SP,Cross Repository
+appceleratorstudio,mule,1.67,GPT2SP,Cross Repository
+clover,usergrid,1.57,Deep-SE,Cross Repository
+talendesb,mesos,2.08,Deep-SE,Cross Repository
+talenddataquality,aptanastudio,5.37,Deep-SE,Cross Repository
+mule,titanium,6.36,Deep-SE,Cross Repository
+talenddataquality,appceleratorstudio,5.55,Deep-SE,Cross Repository
+mulestudio,titanium,2.67,Deep-SE,Cross Repository
+appceleratorstudio,mulestudio,4.24,Deep-SE,Cross Repository
+appceleratorstudio,mule,2.7,Deep-SE,Cross Repository
